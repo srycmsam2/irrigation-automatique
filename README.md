@@ -27,4 +27,4 @@ Deux montages indépendants :
 Détails, schémas (Fritzing), simulations (Proteus) et photos : voir la page du projet
 sur mon portfolio.
 
-© Sara Messaoudi. Code présenté à titre de démonstration de mon travail.
+© Sara.M. Code présenté à titre de démonstration de mon travail.
